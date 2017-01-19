@@ -1,2 +1,2 @@
 # react-hello-world
-This is an update
+This is a hello world app using react
