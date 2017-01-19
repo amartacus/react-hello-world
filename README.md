@@ -1,2 +1,2 @@
 # react-hello-world
-Simple app that renders hello world!
+This is an update
